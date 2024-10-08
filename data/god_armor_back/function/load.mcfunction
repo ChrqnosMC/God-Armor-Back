@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"God Armor Back datapack has been reloaded"}]
